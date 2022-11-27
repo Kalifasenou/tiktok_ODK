@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.odk_tiktok">
+    package="com.example.tikodc">
    <application
-        android:label="odk_tiktok"
+        android:label="tikodc"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
