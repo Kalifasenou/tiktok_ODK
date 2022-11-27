@@ -1,6 +1,6 @@
 {
-    "name": "odk_tiktok",
-    "short_name": "odk_tiktok",
+    "name": "tikodc",
+    "short_name": "tikodc",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

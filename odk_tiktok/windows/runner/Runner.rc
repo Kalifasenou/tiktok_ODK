@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "odk_tiktok" "\0"
+            VALUE "FileDescription", "tikodc" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "odk_tiktok" "\0"
+            VALUE "InternalName", "tikodc" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "odk_tiktok.exe" "\0"
-            VALUE "ProductName", "odk_tiktok" "\0"
+            VALUE "OriginalFilename", "tikodc.exe" "\0"
+            VALUE "ProductName", "tikodc" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
